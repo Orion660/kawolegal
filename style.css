@@ -1,0 +1,34 @@
+/*.kaw{
+	display: flex;
+   justify-content: center;
+	text-align: center;
+}*/
+/*
+.body{
+	background-image: url("kawolegal pics/office.jpg");
+
+}
+
+.content{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}*/
+
+.base{
+	background-color: black;
+}
+
+.kkks{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.body1{
+	height:100vh;
+}
+.parent{
+	height: 100%;
+   background-image: url("../kawolegal pics/office.jpg")
+}
