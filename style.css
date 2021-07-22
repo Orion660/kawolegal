@@ -19,16 +19,57 @@
 	background-color: black;
 }
 
-.kkks{
+.banner{
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
-
+/*
 .body1{
 	height:100vh;
+}*/
+/*#body{
+	/*height: 100px;*/
+	
+   background-image: url("kawolegal pics/office.jpg")
 }
-.parent{
-	height: 100%;
-   background-image: url("../kawolegal pics/office.jpg")
+*/
+.footer{
+	margin-top: 5px;
+	background-color: black;
+}
+
+.footer-row{
+	display: flex;
+	justify-content: space-evenly;
+}
+   
+
+.button{
+	display: flex;
+	margin-top: 5px;
+}
+
+.login{
+	display: flex;
+
+	justify-content: space-betweens;
+
+	align-content: center;
+
+	justify-content: center;
+}
+
+#mmm{
+
+	margin-top: 20px;
+}
+
+#mmm1{
+	margin-top: 40px;
+}
+
+#search{
+	display: flex;
+	justify-content: space-evenly;
 }
