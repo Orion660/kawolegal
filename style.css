@@ -3,13 +3,13 @@
    justify-content: center;
 	text-align: center;
 }*/
-/*
-.body{
+
+/*.body{
 	background-image: url("kawolegal pics/office.jpg");
 
 }
-
-.content{
+*/
+./*content{
 	display: flex;
 	justify-content: center;
 	align-content: center;
@@ -24,19 +24,15 @@
 	align-items: center;
 	justify-content: center;
 }
-/*
-.body1{
-	height:100vh;
-}*/
-/*#body{
-	/*height: 100px;*/
+
+.parent1{
 	
    background-image: url("kawolegal pics/office.jpg")
 }
-*/
+
 .footer{
-	margin-top: 5px;
-	background-color: black;
+	margin-top: 1px;
+	background-color: white;
 }
 
 .footer-row{
